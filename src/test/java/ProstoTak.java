@@ -27,8 +27,7 @@ public class ProstoTak {
         sleep(1000);
         $("a[data-testid='header-btn-basket']").shouldBe(Condition.visible).click();
         $("button[data-testid='btn-design-order']").click();
-
-        sleep(1000);
+        sleep(10002);
 
     }
 }
