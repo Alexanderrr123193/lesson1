@@ -30,9 +30,5 @@ public class ProstoTak {
 
         sleep(100000);
 
-
-
-        //$("#digi-shield > div.digi-main-scroll-wrapper > div.digi-main > div > div > div.digi-main__results > div > div > div > div > div.digi-product__add-to-cart > div > div > div.digi-product__add-to-cart--button_add > button").click();
-        sleep(1003);
     }
 }
